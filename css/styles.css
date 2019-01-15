@@ -7,3 +7,16 @@
 .hidden{
   display:none;
 }
+
+.well:hover {
+  background-color: #7CEFFF;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  background-color: #7CEFFF;
+  margin-bottom: 0px;
+}
