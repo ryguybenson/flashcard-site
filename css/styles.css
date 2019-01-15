@@ -1,0 +1,9 @@
+.well{
+  border:1px solid black;
+  text-align: center;
+  margin: 5px;
+}
+
+p{
+display:none;
+}
