@@ -4,6 +4,6 @@
   margin: 5px;
 }
 
-p{
-display:none;
+.hidden{
+  display:none;
 }
