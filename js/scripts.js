@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".well#JS").click(function() {
+  /*$(".well#JS").click(function() {
     $("#JS p").toggleClass("hidden");
     $("#JS h3").toggleClass("hidden");
   });
@@ -74,7 +74,10 @@ $(document).ready(function() {
   $(".well#ATB").click(function() {
     $("#ATB p").toggleClass("hidden");
     $("#ATB h3").toggleClass("hidden");
-  });
+  });*/
+$(".well").click(function() {
+  $(this).children().toggleClass("hidden");
 
+});
 
 });
